@@ -1,3 +1,3 @@
-# WPU Login Pro
+# WPU Login
 
-Website WPU Login dari channel WPU namun dengan tambahan beberapa fitur dan menggunakan konsep MVC
+Versi original
